@@ -4,7 +4,7 @@
 
 ### About
 
-This program uses a simple machine learning algorithm to evaluate the best course of action given a state of a simple world. Code for this project can be found [here](https://github.com/bxw201/ai_lab3).
+This program uses a simple machine learning algorithm to evaluate the best course of action given a state of a simple world. This assignment was created by Professor Ernest Davis at NYU for CSCI-UA.0472 Artificial Intelligence. Code for this project can be found [here](https://github.com/bxw201/ai_lab3).
 
 ### How to run
 
